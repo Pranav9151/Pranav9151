@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **pranavmahajan9151@gmail.com**
 
-- ⚡ Fun fact **I think I am in love with a HTML&CSS**
+- ⚡ Fun fact **I think I am lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranavm33339668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavm33339668" height="30" width="40" /></a>
 <a href="https://instagram.com/mahajanpranav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahajanpranav_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pràñáv màhâjáñ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pràñáv màhâjáñ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ρ૨αɳαѵ ɱαɦαʝαɳ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ρ૨αɳαѵ ɱαɦαʝαɳ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
