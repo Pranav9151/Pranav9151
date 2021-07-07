@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Mahajan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<p align="center"> <a href="https://media.giphy.com/media/hSLDN6zfh2Yy4ekMWi/giphy.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav9151&label=Profile%20views&color=0e75b6&style=flat" alt="pranav9151" /> </p>
 
