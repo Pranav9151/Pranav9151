@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pranavmahajan9151@gmail.com**
 
-- ⚡ Fun fact **I think I am lazy**
+- ⚡ Fun fact **I think I am Boring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
