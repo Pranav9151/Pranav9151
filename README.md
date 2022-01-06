@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Product Engineering**
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **HTML,CSS,JAVA,JS**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JAVA**
 
 - 📫 How to reach me **pranavmahajan9151@gmail.com**
 
